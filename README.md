@@ -190,10 +190,10 @@ This script:
 
 | Transaction | TXID |
 |-------------|------|
-| A → B | 90fa1e0f68da256fc248bd7ea51da4e70b44631a15143d6495194ca8805c8a2b |
-| B → C | 11566f32f647e1f8a11bb881d4343c5fb6869151893ceb40068e25b9d3e370c8 |
-| A′ → B′ | 013c4e28466e0f220703273c4e8c417d152ae3550e1b82f687b1a05572bfbb51 |
-| B′ → C′ | e267232dbde285e21156b757e19a0e84e97d445c32acf5e6b514b78a136fc14e |
+| A → B |  3b6de670bc7567e7684af27df87aff683f269c15297ef05e73a3b475261315b8 |
+| B → C | d1431f1c336849bf4b642376d95cf8d76cb2f179b8a549a056d4ffe41e38cea6 |
+| A′ → B′ | c2856b601b41c97887117af331d2683255e5da9bfac3165d0ef6786b7b9e55d7 |
+| B′ → C′ | 52c2b0b2c94a7da9e5ef736766e7e2472c01fa5d4a6242b24f1b9aa232cca3c0 |
 
 These transactions were successfully confirmed by mining blocks in the **Regtest network**.
 
