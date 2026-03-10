@@ -84,17 +84,18 @@ RPC connection:
 ```
 CS-216-BlockSmiths-Bitcoin-Transaction-Lab
 │
-├── part1_legacy_AB.py
-├── part1_legacy_BC.py
-├── part2_segwit_AB.py
-├── part2_segwit_BC.py
+├── codes
+│   ├── part1_legacy_AB.py
+│   ├── part1_legacy_BC.py
+│   ├── part2_segwit_AB.py
+│   └── part2_segwit_BC.py
 │
-├── bitcoin.conf
+├── dependencies
+│   ├── bitcoin.conf
+│   └── requirements.txt
 │
 ├── README.md
-│
 └── CS216_Bitcoin_Transaction_Lab_Report.pdf
-
 ```
 
 The **screenshots folder contains btcdeb execution screenshots and terminal outputs used for script validation.**
